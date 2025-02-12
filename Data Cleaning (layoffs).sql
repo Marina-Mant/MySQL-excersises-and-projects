@@ -98,7 +98,7 @@ where row_num > 1;
 select *
 from layoffs_staging2;
 
--- Standrardizing data
+-- Standardizing data
 
 select distinct(TRIM(company))
 FROM layoffs_staging2;

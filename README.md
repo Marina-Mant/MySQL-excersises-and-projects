@@ -4,7 +4,7 @@
 
 This repository contains SQL scripts and projects demonstrating my learning journey in MySQL, covering fundamental, intermediate, and advanced techniques! Additionally, it includes two data analysis projects focusing on data cleaning and exploratory data analysis (EDA) of global layoffs from various companies during the period 2020 - Q1 2023.
 
-Repository Structure
+## Repository Structure 👇
 
 ## 1. MySQL Learning Files
 
